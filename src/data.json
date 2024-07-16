@@ -1,0 +1,506 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Air Max 270",
+        "brand": "Nike",
+        "price": 100,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+        "colors": "black",
+        "description": "The Nike Air Max 270 features Nike's biggest heel Air unit yet for a super-soft ride that feels as impossible as it looks.",
+        "image": "/shoes/shoe.jpeg"
+      },
+      {
+        "id": 2,
+        "name": "UltraBoost 21",
+        "brand": "Adidas",
+        "price": 100,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "blue",
+        "description": "The Adidas UltraBoost 21 combines comfort and performance with its Primeknit+ upper and Boost midsole.",
+        "image": "/shoes/sho2.webp"
+      },
+      {
+        "id": 3,
+        "name": "Classic Leather",
+        "brand": "Reebok",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44],
+        "colors": "black",
+        "description": "The Reebok Classic Leather is a timeless sneaker with a clean and simple design, perfect for everyday wear.",
+        "image": "/shoes/shoe3.jpeg"
+      },
+      {
+        "id": 4,
+        "name": "Chuck Taylor All Star",
+        "brand": "Converse",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45, 46],
+        "colors": "black",
+        "description": "The Converse Chuck Taylor All Star is an iconic sneaker with a classic silhouette that has been a staple for decades.",
+        "image": "/shoes/shoe4.jpeg"
+      },
+      {
+        "id": 5,
+        "name": "Gel-Kayano 27",
+        "brand": "ASICS",
+        "price": 100,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45, 46],
+        "colors":  "white",
+        "description": "The ASICS Gel-Kayano 27 is a high-performance running shoe that offers exceptional stability and cushioning.",
+        "image": "/shoes/shoe5.jpeg"
+      },
+      {
+        "id": 6,
+        "name": "Air Force 1",
+        "brand": "Nike",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "blue",
+        "description": "The Nike Air Force 1 is a classic basketball shoe that offers timeless style and comfort.",
+        "image": "/shoes/shoe6.jpeg"
+      },
+      {
+        "id": 7,
+        "name": "Yeezy Boost 350 V2",
+        "brand": "Adidas",
+        "price": 100,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "black",
+        "description": "The Adidas Yeezy Boost 350 V2 features a Primeknit upper and Boost cushioning for a modern and stylish look.",
+        "image": "/shoes/shoe7.jpeg"
+      },
+      {
+        "id": 8,
+        "name": "Old Skool",
+        "brand": "Vans",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "blue",
+        "description": "The Vans Old Skool is a classic skate shoe known for its iconic side stripe and durable canvas and suede upper.",
+        "image": "/shoes/shoe8.jpeg"
+      },
+      {
+        "id": 9,
+        "name": "Chuck 70",
+        "brand": "Converse",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "red",
+        "description": "The Converse Chuck 70 is a modern take on the classic Chuck Taylor All Star, featuring enhanced comfort and premium materials.",
+        "image": "/shoes/oe9.jpeg"
+      },
+      {
+        "id": 10,
+        "name": "Superstar",
+        "brand": "Adidas",
+        "price": 1,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "white", 
+        "description": "The Adidas Superstar is an iconic sneaker known for its shell-toe design and leather upper.",
+        "image": "/shoes/shoe10.jpeg"
+      },
+      {
+        "id": 11,
+        "name": "Sk8-Hi",
+        "brand": "Vans",
+        "price": 100,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "red", 
+        "description": "The Vans Sk8-Hi is a high-top skate shoe featuring reinforced toecaps to withstand repeated wear and padded collars for support and flexibility.",
+        "image": "/shoes/shoe11.jpeg"
+      },
+      {
+        "id": 12,
+        "name": "Air Jordan 1",
+        "brand": "Nike",
+        "price": 100,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "red", 
+        "description": "The Nike Air Jordan 1 is a legendary basketball shoe that combines style and performance, featuring a leather upper and Air-Sole unit for cushioning.",
+        "image": "/shoes/shoe12.jpeg"
+      },
+      {
+        "id": 13,
+        "name": "Classic Slip-On",
+        "brand": "Vans",
+        "price": 55,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "white",
+        "description": "The Vans Classic Slip-On is an easy slip-on skate shoe with a padded collar and elastic side accents for a comfortable fit.",
+        "image": "/shoes/shoe13.jpeg"
+      },
+      {
+        "id": 14,
+        "name": "Air Max 97",
+        "brand": "Nike",
+        "price": 120,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "white",
+        "description": "The Nike Air Max 97 features a sleek design inspired by Japanese bullet trains, with a full-length Max Air unit for lightweight cushioning.",
+        "image": "/shoes/shoe14.jpeg"
+      },
+      {
+        "id": 15,
+        "name": "Gazelle",
+        "brand": "Adidas",
+        "price": 120,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "white",
+        "description": "The Adidas Gazelle is a versatile sneaker with a suede upper and contrasting 3-Stripes for a timeless look.",
+        "image": "/shoes/shoe15.jpeg"
+      },
+      {
+        "id": 16,
+        "name": "Puma Suede Classic",
+        "brand": "Puma",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "red",
+        "description": "The Puma Suede Classic is an iconic sneaker known for its smooth suede upper and signature Puma Formstrip.",
+        "image": "/shoes/shoe16.jpeg"
+      },
+      {
+        "id": 17,
+        "name": "Reebok Club C 85",
+        "brand": "Reebok",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "black", 
+        "description": "The Reebok Club C 85 is a classic tennis shoe featuring a soft leather upper and EVA midsole for lightweight cushioning.",
+        "image": "/shoes/shoe17.jpeg"
+      },
+      {
+        "id": 18,
+        "name": "New Balance 574",
+        "brand": "New Balance",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "white",
+        "description": "The New Balance 574 is a classic sneaker with a suede and mesh upper for durability and breathability.",
+        "image": "/shoes/shoe18.jpeg"
+      },
+      {
+        "id": 19,
+        "name": "Adidas Stan Smith",
+        "brand": "Adidas",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "blue", 
+        "description": "The Adidas Stan Smith is a tennis-inspired sneaker with a clean leather upper and perforated 3-Stripes.",
+        "image": "/shoes/shoe19.jpeg"
+      },
+      {
+        "id": 20,
+        "name": "Air Max 90",
+        "brand": "Nike",
+        "price": 120,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "black", 
+        "description": "The Nike Air Max 90 is an iconic running shoe featuring a bold, retro design and Max Air cushioning for all-day comfort.",
+        "image": "/shoes/shoe20.jpeg"
+      },
+      {
+        "id": 21,
+        "name": "Chuck Taylor All Star II",
+        "brand": "Converse",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "red",
+        "description": "The Converse Chuck Taylor All Star II is an updated version of the classic Chuck Taylor, featuring a Lunarlon sockliner for enhanced comfort.",
+        "image": "/shoes/shoe21.jpeg"
+      },
+      {
+        "id": 22,
+        "name": "Vans Sk8-Hi",
+        "brand": "Vans",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "red",
+        "description": "The Vans Sk8-Hi is a high-top skate shoe with a padded collar and canvas suede upper for durability and comfort.",
+        "image": "/shoes/shoe22.jpeg"
+      },
+      {
+        "id": 23,
+        "name": "New Balance FuelCell Propel v2",
+        "brand": "New Balance",
+        "price": 120,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "grey", 
+        "description": "The New Balance FuelCell Propel v2 is a lightweight running shoe with FuelCell technology for responsive cushioning and energy return.",
+        "image": "/shoes/shoe23.jpeg"
+      },
+      {
+        "id": 24,
+        "name": "Reebok Club C 85",
+        "brand": "Reebok",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "grey",
+        "description": "The Reebok Club C 85 is a classic tennis shoe with a soft leather upper and comfortable EVA midsole for all-day wear.",
+        "image": "/shoes/shoe24.jpeg"
+      },
+      {
+        "id": 25,
+        "name": "Nike Air Zoom Terra Kiger 7",
+        "brand": "Nike",
+        "price": 120,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "grey", 
+        "description": "The Nike Air Zoom Terra Kiger 7 is a trail running shoe with Zoom Air units and a sticky rubber outsole for traction on various terrains.",
+        "image": "/shoes/shoe25.jpeg"
+      },
+      {
+        "id": 26,
+        "name": "Nike Air Max 95",
+        "brand": "Nike",
+        "price": 100,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "grey", 
+        "description": "The Nike Air Max 95 features a distinctive design inspired by human anatomy, with visible Air units for cushioning and comfort.",
+        "image": "/shoes/shoe26.jpeg"
+      },
+      {
+        "id": 27,
+        "name": "Adidas Ultraboost 22",
+        "brand": "Adidas",
+        "price": 100,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "black",
+        "description": "The Adidas Ultraboost 22 is a high-performance running shoe with responsive Boost cushioning and a Primeknit upper for a comfortable fit.",
+        "image": "/shoes/shoe27.jpeg"
+      },
+      {
+        "id": 28,
+        "name": "Vans Authentic",
+        "brand": "Vans",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "black", 
+        "description": "The Vans Authentic is a classic low-top skate shoe with a durable canvas upper and signature waffle outsole.",
+        "image": "/shoes/shoe28.jpeg"
+      },
+      {
+        "id": 29,
+        "name": "New Balance Fresh Foam 1080v11",
+        "brand": "New Balance",
+        "price": 120,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "white", 
+        "description": "The New Balance Fresh Foam 1080v11 is a premium running shoe featuring Fresh Foam midsole cushioning for a smooth and responsive ride.",
+        "image": "/shoes/shoe29.jpeg"
+      },
+      {
+        "id": 30,
+        "name": "Converse One Star",
+        "brand": "Converse",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "blue", 
+        "description": "The Converse One Star is a skateboarding shoe known for its low-profile silhouette and durable suede upper.",
+        "image": "/shoes/shoe30.jpeg"
+      },
+      {
+        "id": 31,
+        "name": "Puma RS-X",
+        "brand": "Puma",
+        "price": 120,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "grey", 
+        "description": "The Puma RS-X is a retro-inspired sneaker with a bulky design and comfortable RS cushioning technology.",
+        "image": "/shoes/shoe31.jpeg"
+      },
+      {
+        "id": 32,
+        "name": "Nike React Infinity Run Flyknit",
+        "brand": "Nike",
+        "price": 120,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "blue",
+        "description": "The Nike React Infinity Run Flyknit is a running shoe designed to help reduce injury and keep you running comfortably.",
+        "image": "/shoes/shoe32.jpeg"
+      },
+      {
+        "id": 33,
+        "name": "Adidas Nite Jogger",
+        "brand": "Adidas",
+        "price": 120,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "blue",
+        "description": "The Adidas Nite Jogger features reflective details and Boost cushioning for a sleek and comfortable feel during night-time runs.",
+        "image": "/shoes/shoe33.jpeg"
+      },
+      {
+        "id": 34,
+        "name": "Vans Slip-On",
+        "brand": "Vans",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "blue",
+        "description": "The Vans Slip-On is an easy slip-on skate shoe with a padded collar and elastic side accents for a comfortable fit.",
+        "image": "/shoes/shoe34.jpeg"
+      },
+      {
+        "id": 35,
+        "name": "New Balance 990v5",
+        "brand": "New Balance",
+        "price": 120,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "blue",
+        "description": "The New Balance 990v5 is a classic running shoe known for its premium materials and superior comfort.",
+        "image": "/shoes/shoe356.jpeg"
+      },
+      {
+        "id": 36,
+        "name": "Reebok Nano X1",
+        "brand": "Reebok",
+        "price": 120,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "blue",
+        "description": "The Reebok Nano X1 is a versatile training shoe designed for stability and comfort during intense workouts.",
+        "image": "/shoes/shoe36.jpeg"
+      },
+      {
+        "id": 37,
+        "name": "Nike Blazer Mid '77 Vintage",
+        "brand": "Nike",
+        "price": 100,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "red",
+        "description": "The Nike Blazer Mid '77 Vintage features a retro basketball design with premium leather and suede materials.",
+        "image": "/shoes/shoe37.jpeg"
+      },
+      {
+        "id": 38,
+        "name": "Adidas Stan Smith Primeblue",
+        "brand": "Adidas",
+        "price": 100,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "red",
+        "description": "The Adidas Stan Smith Primeblue is a sustainable version of the classic tennis shoe made with Primeblue, a high-performance recycled material.",
+        "image": "/shoes/shoe38.jpeg"
+      },
+      {
+        "id": 39,
+        "name": "Vans Era",
+        "brand": "Vans",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "white", 
+        "description": "The Vans Era is a low-top skate shoe with a padded collar and signature waffle outsole for enhanced grip.",
+        "image": "/shoes/shoe39.jpeg"
+      },
+      {
+        "id": 40,
+        "name": "New Balance Fresh Foam Hierro v6",
+        "brand": "New Balance",
+        "price": 120,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "white" ,
+        "description": "The New Balance Fresh Foam Hierro v6 is a trail running shoe with Fresh Foam cushioning and a durable Vibram outsole for traction.",
+        "image": "/shoes/shoe40.jpeg"
+      },
+      {
+        "id": 41,
+        "name": "Converse Chuck 70 High Top",
+        "brand": "Converse",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "red",
+        "description": "The Converse Chuck 70 High Top is a classic canvas basketball shoe with a timeless silhouette and OrthoLite cushioning for comfort.",
+        "image": "/shoes/shoe41.jpeg"
+      },
+      {
+        "id": 42,
+        "name": "Puma Suede Classic",
+        "brand": "Puma",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "blue",
+        "description": "The Puma Suede Classic is an iconic sneaker known for its suede upper and classic silhouette, perfect for casual wear.",
+        "image": "/shoes/shoe42.jpeg"
+      },
+      {
+        "id": 43,
+        "name": "Nike Air Force 1 '07",
+        "brand": "Nike",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "grey",
+        "description": "The Nike Air Force 1 '07 is a classic basketball shoe with a low-cut silhouette and durable leather upper.",
+        "image": "/shoes/shoe43.jpeg"
+      },
+      {
+        "id": 44,
+        "name": "Adidas Superstar",
+        "brand": "Adidas",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "blue",
+        "description": "The Adidas Superstar is an iconic sneaker with a rubber shell toe and leather upper, known for its timeless style.",
+        "image": "/shoes/shoe44.jpeg"
+      },
+      {
+        "id": 45,
+        "name": "Vans Sk8-Hi",
+        "brand": "Vans",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "red",
+        "description": "The Vans Sk8-Hi is a high-top skate shoe with a padded collar and canvas suede upper for durability and comfort.",
+        "image": "/shoes/shoe45.jpeg"
+      },
+      {
+        "id": 46,
+        "name": "New Balance FuelCell Propel v2",
+        "brand": "New Balance",
+        "price": 120,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "blue",
+        "description": "The New Balance FuelCell Propel v2 is a lightweight running shoe with FuelCell technology for responsive cushioning and energy return.",
+        "image": "/shoes/shoe46.jpeg"
+      },
+      {
+        "id": 47,
+        "name": "Reebok Club C 85",
+        "brand": "Reebok",
+        "price": 50,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "red",
+        "description": "The Reebok Club C 85 is a classic tennis shoe with a soft leather upper and comfortable EVA midsole for all-day wear.",
+        "image": "/shoes/shoe47.jpeg"
+      },
+      {
+        "id": 48,
+        "name": "Nike Air Zoom Terra Kiger 7",
+        "brand": "Nike",
+        "price": 100,
+        "sizes": [38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "grey", 
+        "description": "The Nike Air Zoom Terra Kiger 7 is a trail running shoe with Zoom Air units and a sticky rubber outsole for traction on various terrains.",
+        "image": "/shoes/shoe48.jpeg"
+      },
+      {
+        "id": 49,
+        "name": "Adidas ZX 2K Boost",
+        "brand": "Adidas",
+        "price": 120,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors": "white",
+        "description": "The Adidas ZX 2K Boost combines retro style with modern Boost cushioning technology for a comfortable and supportive feel.",
+        "image": "/shoes/shoe49.jpeg"
+      },
+      {
+        "id": 50,
+        "name": "Vans Old Skool",
+        "brand": "Vans",
+        "price": 100,
+        "sizes": [37, 38, 39, 40, 41, 42, 43, 44, 45],
+        "colors":  "blue",
+        "description": "The Vans Old Skool is a classic skate shoe with a low-top silhouette and suede/canvas upper for durability and style.",
+        "image": "/shoes/shoe50.jpeg"
+      }
+
+    ]
+  }
+  
